@@ -12,6 +12,12 @@
     "test": "npm test --workspaces --if-present"
   },
   "type": "module",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.4.0",
+    "tailwindcss-animate": "^1.0.7"
+  },
   "workspaces": [
     "src/hello_frontend"
   ]

@@ -1,4 +1,4 @@
-# iCodehix
+# DEHIX x ICO
 
 Welcome to **iCodehix** – a cutting-edge decentralized platform that brings together innovative Web3 technologies to empower users and developers alike. This project aims to revolutionize [insert specific purpose here, e.g., decentralized collaboration, smart contract interactions, or blockchain-based services] with a seamless, modern interface and robust functionality.
 
